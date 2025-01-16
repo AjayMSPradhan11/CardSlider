@@ -1,3 +1,5 @@
+#Card Slider
+
 Setup Instructions: 
 -This task is created by using HTML, CSS and JavaScript.
 -Visual Studio Code was used as IDE for the creation of the task.
